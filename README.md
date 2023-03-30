@@ -19,6 +19,7 @@
 
 
 ## Question: What is the current BIOS version available for the motherboard?
+*P2.30 since 2018*
 
 
 ## Question: What features, if any, have been added to the new BIOS version?
