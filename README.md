@@ -21,12 +21,23 @@
 ## Question: What is the current BIOS version available for the motherboard?
 *P2.30 since 2018*
 
+# 10.2.1.8 Lab - Create a Partition in Windows
 
-## Question: What features, if any, have been added to the new BIOS version?
+## Question: What type of File System is used on the NEW VOLUME (I:)?
+*FAT32*
 
+## Question: How much Free Space is shown?
+*1.99 GB*
 
-## Question: What changes, if any, have been made to the new BIOS version to fix problems?
+## Question: List the tabs found in the NEW VOLUME (I): Properties window?
+*General - Tools - Hardware - Sharing - ReadyBoost - Previous Versions - Customize*
 
+## Question: What tabs are listed in the ITE Test Document Properties window?
+*General - Details - Previous Versions*
 
-## Question: What are the instructions to update the new BIOS version?
+## Question: What happens if you do not run as administrator when you open the command prompt?
+*you will not have acces to anything because your are not administrator*
+
+## Question:
+
 
