@@ -57,6 +57,41 @@
 *Lock the taskbar, hide the taskbar in desktop mode and tablet mode, small desktop buttons, show badges on taskbar buttons and more.*
 
 ## Question: What are the available options in the Task View settings?
+*add new desktop and see more days in timeline*
+
+
+## Question: What happened?
+*it is not the same one on desktop 1, it is a new one*
+
+
+## Question: What can you do in the Notification & actions Settings window?
+*turn off notifications and customize it how you want to receive your notifications*
+
+
+
+
+
+## Question: 
+**
+
+
+## Question: 
+**
+
+
+## Question: 
+**
+
+
+## Question: 
+**
+
+
+## Question: 
+**
+
+
+## Question: 
 **
 
 
