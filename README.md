@@ -67,16 +67,59 @@
 ## Question: What can you do in the Notification & actions Settings window?
 *turn off notifications and customize it how you want to receive your notifications*
 
+# 11.1.3.4 Lab - Work with Task Manager
 
 
+## Question: What happened?
+*it closed the application *
 
 
-## Question: 
-**
+## Question: What options are available?
+*End task, provide feedback, run new task, always on top, search online*
 
 
-## Question: 
-**
+## Question: What statuses are listed?
+*running and stopped*
+
+
+## Question: What are the available actions that can be taken?
+*start, open services, search online*
+
+
+## Question: What is the current utilization of the CPU?
+*1%*
+
+
+## Question: How many streams of instructions (i.e. Threads) are currently running?
+*1184*
+
+
+## Question: How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+*136*
+
+
+## Question: What is the total physical memory (MB)?
+*16.6 MB*
+
+
+## Question: What is the available physical memory (MB)?
+*4.7 GB*
+
+
+## Question: How much physical memory (MB) is being used by the computer?
+*2.9 GB*
+
+
+## Question: What is the link speed? What type of Ethernet Adapter is in use on this computer?
+*Adapter Name: Ethernet*
+
+
+## Question: What type of network connection (i.e Connection type) is in use?
+*Ethernet*
+
+
+## Question: What is the IPv4 address of the PC? 
+*10.11.214.62*
 
 
 ## Question: 
