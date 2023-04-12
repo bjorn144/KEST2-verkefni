@@ -38,6 +38,25 @@
 ## Question: What happens if you do not run as administrator when you open the command prompt?
 *you will not have acces to anything because your are not administrator*
 
+# 11.1.2.10 Lab - Explore the Windows Desktop
+
+## Question: List some of the icons that are on the Desktop.
+*File explorer, Microsoft Edge, Mail*
+
+
+## Question: What type of information is available on the Desktop and Taskbar?
+**
+
 ## Question:
+
+
+## Question:
+
+
+## Question:
+
+
+## Question:
+
 
 
