@@ -45,18 +45,18 @@
 
 
 ## Question: What type of information is available on the Desktop and Taskbar?
+*icons for all open applications and files, the start menu, the weather, volume, clock and the date*
+
+## Question: Name a few applications listed in the Start Menu.
+*Calculator, calendar, camera, clock*
+
+## Question: What are some of the available options?
+*Pin to start and uninstall*
+
+## Question: What are the available options in the Taskbar settings?
+*Lock the taskbar, hide the taskbar in desktop mode and tablet mode, small desktop buttons, show badges on taskbar buttons and more.*
+
+## Question: What are the available options in the Task View settings?
 **
-
-## Question:
-
-
-## Question:
-
-
-## Question:
-
-
-## Question:
-
 
 
